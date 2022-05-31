@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea
+cleora-master
+data/*
+data-source/*
+output/*
