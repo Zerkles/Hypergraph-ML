@@ -17,3 +17,4 @@ Additional notebooks (using them require doing steps 1 and 2 from above section)
 1. *data_analysis.ipynb* can be used to obtain details and statistics of datasets
 2. *balancing.ipynb* can be used to generate balanced versions of datasets using RandomOverSampler method in versions with
    resampling nodes or hyperedges
+3. *experiment_visualization* can be used to visualize results obtained from main notebook.
